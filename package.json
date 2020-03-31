@@ -1,0 +1,22 @@
+{
+  "name": "test-npm-module",
+  "version": "1.0.0",
+  "description": "test npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan-luthra/test-npm-module.git"
+  },
+  "keywords": [
+    "test-npm-module"
+  ],
+  "author": "rohanluthra <rohanluthra.1123@gmail.com> (https://github/rohan-luthra)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan-luthra/test-npm-module/issues"
+  },
+  "homepage": "https://github.com/rohan-luthra/test-npm-module#readme"
+}
