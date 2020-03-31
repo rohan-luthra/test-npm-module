@@ -1,0 +1,1 @@
+npm install test-npm-modulee
