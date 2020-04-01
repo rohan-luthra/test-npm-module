@@ -1,3 +1,3 @@
 const data = new Date();
 
-module.exports = `ISO time${data.toISOString()}`;
+module.exports = `ISO time ${data.toISOString()}`;
